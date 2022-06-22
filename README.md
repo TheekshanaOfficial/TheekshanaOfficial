@@ -39,7 +39,6 @@ You can use the website to generate badges: https://shields.io/
   
 - ![Profile views](https://gpvc.arturio.dev/Theekshanaofficial126)
   
-<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Theekshanaofficial126&theme=alduin" alt="Theekshanaofficial126" /></a> </p>
 
 <p align="center">
   <a href="https://github.com/Theekshanaofficial126">
@@ -64,11 +63,3 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>                  
-
-# MOST USED LANGUAGES
-
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Theekshanaofficial126&theme=dark&red_icons=true)
-                                                                                                                      
-# 📊 Status
-[![Metrics](https://metrics.lecoq.io/theekshanaofficial126?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/imtheekshana)
- 
