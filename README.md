@@ -38,13 +38,6 @@ You can use the website to generate badges: https://shields.io/
 ![Theekshana's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImTheekshana126&theme=dark&show_icons=true)
   
 - ![Profile views](https://gpvc.arturio.dev/Theekshanaofficial126)
-  
-
-<p align="center">
-  <a href="https://github.com/Theekshanaofficial126">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshanaofficial126#version3"/>
-  </a>
-</p>
 
 # MY TOOLS AND LANG
 
